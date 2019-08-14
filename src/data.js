@@ -26,5 +26,12 @@ export default [
 		price: 40.00,
 		image:
 			'https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg'
+	},
+	{
+		id: 5,
+		title: 'Fire and Blood',
+		price: 35.00,
+		image:
+			'https://images-na.ssl-images-amazon.com/images/I/51hbQ3JGfyL._SX342_BO1,204,203,200_.jpg'
 	}
 ];
